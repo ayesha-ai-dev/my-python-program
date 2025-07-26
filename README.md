@@ -1,1 +1,2 @@
-# my-python-program
+This my first repository
+Author: Ayesha 
